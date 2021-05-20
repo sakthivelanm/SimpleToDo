@@ -4,7 +4,7 @@
 
 Submitted by: **Sakthivelan Manikanthan**
 
-Time spent: **2.5** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 

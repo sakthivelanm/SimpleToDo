@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Android Studio and Java ever. So there was a learning curve as I wasn't familiar with either the IDE or the language being used, however the video tutorials really helped. I liked how the the activity_main.xml file let me use either the code or the design and it was the first time I've seen something like that. Overall though, this was a really run project to do and I learned so much from this alone. 
 
 ## License
 
